@@ -1,0 +1,6 @@
+streamlit==1.66.1
+langchain==1.4.7
+langchain-openai==1.7.3
+python-dotenv==1.2.4
+requests==2.34.2
+tzdata==2026.6
